@@ -1,1 +1,1 @@
-# LegalArgumentsLLM
+# Discovering the Potential of LLMs in Annotating Legal Texts for Argument Mining
