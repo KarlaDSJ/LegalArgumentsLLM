@@ -12,4 +12,18 @@ In this repository we explore the use of LLMs to facilitate the annotation of le
 
 
 ## Cite as 
-Coming soon...
+```
+@inproceedings{berghegger:hal-05339537,
+  TITLE = {{Discovering the Potential of LLMs in Annotating Legal Texts for Argument Mining}},
+  AUTHOR = {Berghegger, Christina and Philippe, C{\'e}sar and Salas-Jimenez, Karla and Mailly, Jean-Guy and Moudjari, Leila and Perrussel, Laurent},
+  URL = {https://hal.science/hal-05339537},
+  BOOKTITLE = {{Second International Workshop on Argumentation and Applications (Arg\&App 2025)}},
+  ADDRESS = {Melbourne (AUS), Australia},
+  YEAR = {2025},
+  MONTH = Nov,
+  KEYWORDS = {Argument Mining ; Legal Argumentation ; Dataset annotation ; ECHR ; LLM},
+  PDF = {https://hal.science/hal-05339537v1/file/Argu-LLM.pdf},
+  HAL_ID = {hal-05339537},
+  HAL_VERSION = {v1},
+}
+```
